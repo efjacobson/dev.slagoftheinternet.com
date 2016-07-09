@@ -1,10 +1,10 @@
 
-<link href="/styles/font-awesome.min.css" rel="stylesheet">
+<link href="/dev.slagoftheinternet.com/styles/font-awesome.min.css" rel="stylesheet">
 
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet" type="text/css">
-    <link href="/styles/main.css" rel="stylesheet">
+    <link href="/dev.slagoftheinternet.com/styles/main.css" rel="stylesheet">
     
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
